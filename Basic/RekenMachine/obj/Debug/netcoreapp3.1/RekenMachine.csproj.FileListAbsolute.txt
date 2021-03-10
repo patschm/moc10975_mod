@@ -1,0 +1,13 @@
+E:\10975_MOD\Basic\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.exe
+E:\10975_MOD\Basic\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.deps.json
+E:\10975_MOD\Basic\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.runtimeconfig.json
+E:\10975_MOD\Basic\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.runtimeconfig.dev.json
+E:\10975_MOD\Basic\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.dll
+E:\10975_MOD\Basic\RekenMachine\bin\Debug\netcoreapp3.1\RekenMachine.pdb
+E:\10975_MOD\Basic\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.csprojAssemblyReference.cache
+E:\10975_MOD\Basic\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.AssemblyInfoInputs.cache
+E:\10975_MOD\Basic\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.AssemblyInfo.cs
+E:\10975_MOD\Basic\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.csproj.CoreCompileInputs.cache
+E:\10975_MOD\Basic\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.dll
+E:\10975_MOD\Basic\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.pdb
+E:\10975_MOD\Basic\RekenMachine\obj\Debug\netcoreapp3.1\RekenMachine.genruntimeconfig.cache

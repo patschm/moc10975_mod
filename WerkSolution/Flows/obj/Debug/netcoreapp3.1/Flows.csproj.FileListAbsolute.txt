@@ -1,0 +1,13 @@
+E:\10975_MOD\WerkSolution\Flows\bin\Debug\netcoreapp3.1\Flows.exe
+E:\10975_MOD\WerkSolution\Flows\bin\Debug\netcoreapp3.1\Flows.deps.json
+E:\10975_MOD\WerkSolution\Flows\bin\Debug\netcoreapp3.1\Flows.runtimeconfig.json
+E:\10975_MOD\WerkSolution\Flows\bin\Debug\netcoreapp3.1\Flows.runtimeconfig.dev.json
+E:\10975_MOD\WerkSolution\Flows\bin\Debug\netcoreapp3.1\Flows.dll
+E:\10975_MOD\WerkSolution\Flows\bin\Debug\netcoreapp3.1\Flows.pdb
+E:\10975_MOD\WerkSolution\Flows\obj\Debug\netcoreapp3.1\Flows.csprojAssemblyReference.cache
+E:\10975_MOD\WerkSolution\Flows\obj\Debug\netcoreapp3.1\Flows.AssemblyInfoInputs.cache
+E:\10975_MOD\WerkSolution\Flows\obj\Debug\netcoreapp3.1\Flows.AssemblyInfo.cs
+E:\10975_MOD\WerkSolution\Flows\obj\Debug\netcoreapp3.1\Flows.csproj.CoreCompileInputs.cache
+E:\10975_MOD\WerkSolution\Flows\obj\Debug\netcoreapp3.1\Flows.dll
+E:\10975_MOD\WerkSolution\Flows\obj\Debug\netcoreapp3.1\Flows.pdb
+E:\10975_MOD\WerkSolution\Flows\obj\Debug\netcoreapp3.1\Flows.genruntimeconfig.cache

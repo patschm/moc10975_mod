@@ -1,0 +1,13 @@
+E:\10975_MOD\WerkSolution\Branches\obj\Debug\netcoreapp3.1\Branches.csprojAssemblyReference.cache
+E:\10975_MOD\WerkSolution\Branches\obj\Debug\netcoreapp3.1\Branches.AssemblyInfoInputs.cache
+E:\10975_MOD\WerkSolution\Branches\obj\Debug\netcoreapp3.1\Branches.AssemblyInfo.cs
+E:\10975_MOD\WerkSolution\Branches\obj\Debug\netcoreapp3.1\Branches.csproj.CoreCompileInputs.cache
+E:\10975_MOD\WerkSolution\Branches\bin\Debug\netcoreapp3.1\Branches.exe
+E:\10975_MOD\WerkSolution\Branches\bin\Debug\netcoreapp3.1\Branches.deps.json
+E:\10975_MOD\WerkSolution\Branches\bin\Debug\netcoreapp3.1\Branches.runtimeconfig.json
+E:\10975_MOD\WerkSolution\Branches\bin\Debug\netcoreapp3.1\Branches.runtimeconfig.dev.json
+E:\10975_MOD\WerkSolution\Branches\bin\Debug\netcoreapp3.1\Branches.dll
+E:\10975_MOD\WerkSolution\Branches\bin\Debug\netcoreapp3.1\Branches.pdb
+E:\10975_MOD\WerkSolution\Branches\obj\Debug\netcoreapp3.1\Branches.dll
+E:\10975_MOD\WerkSolution\Branches\obj\Debug\netcoreapp3.1\Branches.pdb
+E:\10975_MOD\WerkSolution\Branches\obj\Debug\netcoreapp3.1\Branches.genruntimeconfig.cache

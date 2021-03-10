@@ -1,0 +1,13 @@
+E:\10975_MOD\WerkSolution\Collecties\bin\Debug\netcoreapp3.1\Collecties.exe
+E:\10975_MOD\WerkSolution\Collecties\bin\Debug\netcoreapp3.1\Collecties.deps.json
+E:\10975_MOD\WerkSolution\Collecties\bin\Debug\netcoreapp3.1\Collecties.runtimeconfig.json
+E:\10975_MOD\WerkSolution\Collecties\bin\Debug\netcoreapp3.1\Collecties.runtimeconfig.dev.json
+E:\10975_MOD\WerkSolution\Collecties\bin\Debug\netcoreapp3.1\Collecties.dll
+E:\10975_MOD\WerkSolution\Collecties\bin\Debug\netcoreapp3.1\Collecties.pdb
+E:\10975_MOD\WerkSolution\Collecties\obj\Debug\netcoreapp3.1\Collecties.csprojAssemblyReference.cache
+E:\10975_MOD\WerkSolution\Collecties\obj\Debug\netcoreapp3.1\Collecties.AssemblyInfoInputs.cache
+E:\10975_MOD\WerkSolution\Collecties\obj\Debug\netcoreapp3.1\Collecties.AssemblyInfo.cs
+E:\10975_MOD\WerkSolution\Collecties\obj\Debug\netcoreapp3.1\Collecties.csproj.CoreCompileInputs.cache
+E:\10975_MOD\WerkSolution\Collecties\obj\Debug\netcoreapp3.1\Collecties.dll
+E:\10975_MOD\WerkSolution\Collecties\obj\Debug\netcoreapp3.1\Collecties.pdb
+E:\10975_MOD\WerkSolution\Collecties\obj\Debug\netcoreapp3.1\Collecties.genruntimeconfig.cache
