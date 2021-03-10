@@ -35,6 +35,7 @@ namespace PeopleReader
             var insert = new SqlCommand();
             insert.Connection = connection;
             insert.CommandText = "INSERT INTO dbo.Person (Name, Age) VALUES ('" + iname + "', 42)";
+//            insert.CommandText = "INSERT INTO dbo.Person (Name, Age) VALUES (@name, 42)";
             //insert.Parameters.AddWithValue("@name", iname);
             insert.ExecuteNonQuery();
 
