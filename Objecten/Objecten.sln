@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blauwdrukken", "Blauwdrukken\Blauwdrukken.csproj", "{EC189ACF-9804-4E15-8E88-76910EBB1E30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC189ACF-9804-4E15-8E88-76910EBB1E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC189ACF-9804-4E15-8E88-76910EBB1E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC189ACF-9804-4E15-8E88-76910EBB1E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC189ACF-9804-4E15-8E88-76910EBB1E30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8DB4B6-0C92-4452-B231-F59DB756970A}
+	EndGlobalSection
+EndGlobal
