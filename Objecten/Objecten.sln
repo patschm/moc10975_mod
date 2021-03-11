@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blauwdrukken", "Blauwdrukken\Blauwdrukken.csproj", "{EC189ACF-9804-4E15-8E88-76910EBB1E30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electronica", "Electronica\Electronica.csproj", "{F0D43DA9-9000-4BDD-9B3F-77CD5D0806A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekenProgramma", "TekenProgramma\TekenProgramma.csproj", "{CAC679D7-2761-4B07-A5A1-6910105EF359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EC189ACF-9804-4E15-8E88-76910EBB1E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC189ACF-9804-4E15-8E88-76910EBB1E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC189ACF-9804-4E15-8E88-76910EBB1E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0D43DA9-9000-4BDD-9B3F-77CD5D0806A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0D43DA9-9000-4BDD-9B3F-77CD5D0806A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0D43DA9-9000-4BDD-9B3F-77CD5D0806A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D43DA9-9000-4BDD-9B3F-77CD5D0806A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC679D7-2761-4B07-A5A1-6910105EF359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC679D7-2761-4B07-A5A1-6910105EF359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC679D7-2761-4B07-A5A1-6910105EF359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC679D7-2761-4B07-A5A1-6910105EF359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
