@@ -6,13 +6,15 @@ namespace Electronica
     {
         static void Main(string[] args)
         {
+            BuizenRadio r5 = new BuizenRadio();
+
             // Oerknal
             // Generaliseren. r2 is een gegeneraliseerd object
-            Radio r2 = new DABRadio { Encoder = "MP3" };
+            Radio r2 = new DABRadio { Encoder = "MP4" };
             //((DABRadio)r2).Encoder = "WMV";
             r2.Aan();
             r2.FrequentieUp();
-            r2.WijzigVolume(25);
+            r2.WijzigVolume(55);
             
 
 

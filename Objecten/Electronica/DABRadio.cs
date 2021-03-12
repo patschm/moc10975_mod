@@ -10,6 +10,7 @@ namespace Electronica
 
         public override void Aan()
         {
+            //base.Aan();
             Console.WriteLine($"De DAB radio decodeert de stream via {Encoder}");
         }
     }

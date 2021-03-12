@@ -1,29 +1,35 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Linq;
 
 namespace PeopleReader
 {
-    //class Person
-    //{
-    //    public int ID { get; set; }
-    //    public string Name { get; set; }
-    //    public int? Age { get; set; }
-    //}
+
 
     class Program
     {
         static void Main(string[] args)
         {
-            CoreVoorKerelsMetHarenOpDeTanden();
-           // PatatGeneratie();
-
-
+            //CoreVoorKerelsMetHarenOpDeTanden();
+           PatatGeneratie();
         }
 
         private static void PatatGeneratie()
         {
-            
+            string conStr = @"Server=.\sqlexpress;Database=SimpleDB;Trusted_Connection=True;";
+
+            DbContextOptionsBuilder bld = new DbContextOptionsBuilder();  
+            //ctx.Database.EnsureCreated();
+            bld.UseSqlServer(conStr);
+            MijnContext ctx = new MijnContext(bld.Options);
+            List<Person> peeps = ctx.People.Where(p => p.Age > 30).ToList();
+            foreach(Person p in peeps)
+            {
+                Console.WriteLine($"[{p.ID}]{p.Name} ({p.Age})");
+            }
+          
         }
 
         private static void CoreVoorKerelsMetHarenOpDeTanden()
